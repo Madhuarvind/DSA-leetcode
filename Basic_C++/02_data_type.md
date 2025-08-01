@@ -64,3 +64,31 @@ A
 ```
 
 ---
+
+## 2. 🔢 Integer Data Type (`int`)
+
+Used to store whole numbers. Size: **4 bytes** (on 64-bit systems).  
+Range: **-2,147,483,648 to 2,147,483,647**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int x = 25;
+    cout << x << endl;
+
+    // Hexadecimal representation
+    x = 0x15;
+    cout << x;
+    return 0;
+}
+```
+
+🖥️ Output:
+```
+25
+21
+```
+
+---
