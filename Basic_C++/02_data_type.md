@@ -42,3 +42,25 @@ In C++, data types are classified into:
 We’ll focus here on **primitive types**.
 
 ---
+
+## 1. 🔠 Character Data Type (`char`)
+
+Used to store a single character. Size: **1 byte**.
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    char c = 'A';
+    cout << c;
+    return 0;
+}
+```
+
+🖥️ Output:
+```
+A
+```
+
+---
