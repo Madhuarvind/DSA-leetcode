@@ -169,3 +169,54 @@ Represents absence of value. Cannot be used to declare variables.
 - Used for **void pointers**
 
 ---
+
+## 🔐 Type Safety in C++
+
+C++ is a **strongly typed** language. Variables must be declared with a data type and only compatible values can be assigned.
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    bool a = 10.248f;  // float assigned to bool
+    cout << a;
+    return 0;
+}
+```
+
+🖥️ Output:
+```
+1
+```
+
+📝 The float is converted to 1 (true), but data is lost. Strong typing prevents unsafe operations.
+
+---
+
+## 🔄 Data Type Conversion
+
+Converts one type to another. Example:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n = 3;
+    char c = 'C';
+
+    cout << (int)c << endl;  // ASCII of 'C'
+    int sum = n + c;
+    cout << sum;
+    return 0;
+}
+```
+
+🖥️ Output:
+```
+67
+70
+```
+
+---
