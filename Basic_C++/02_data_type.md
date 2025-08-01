@@ -220,3 +220,58 @@ int main() {
 ```
 
 ---
+
+## 📏 Size of Data Types
+
+Size may vary across systems. Use `sizeof()` to check.
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
+    cout << "Size of char: " << sizeof(char) << " byte" << endl;
+    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
+    cout << "Size of double: " << sizeof(double) << " bytes";
+    return 0;
+}
+```
+
+🖥️ Output:
+```
+Size of int: 4 bytes
+Size of char: 1 byte
+Size of float: 4 bytes
+Size of double: 8 bytes
+```
+
+---
+
+## 🔧 Data Type Modifiers
+
+Modify existing types to change their size or range.
+
+| Modifier   | Description                       |
+|------------|-----------------------------------|
+| `short`    | Smaller range than `int`          |
+| `long`     | Larger range than `int`           |
+| `signed`   | Allows negative & positive values |
+| `unsigned` | Only positive values              |
+
+```cpp
+int var1;         // 4 bytes
+long int var2;    // 8 bytes
+unsigned int u;   // 4 bytes, no negatives
+long double pi;   // More precision than double
+```
+
+---
+
+📌 **Additional Resource:**  
+👉 [Read more on GeeksforGeeks](https://www.geeksforgeeks.org/cpp/cpp-data-types/)
+
+---
+
+> 💡 Tip: Always choose data types wisely based on memory usage and precision requirements.
+
