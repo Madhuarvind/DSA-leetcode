@@ -50,6 +50,7 @@ You are not an adult.
 
 ---
 
+<<<<<<< HEAD
 ## 🔄 Simplifying Logic with `else if`
 
 If you need to evaluate **multiple conditions**, use `else if` for cleaner and more readable code.
@@ -159,3 +160,4 @@ Grade: C
 > ✨ Special thanks to Gauri Tomar for contributing to this article on takeUforward.
 
 📚 _Explore more on:_ [Striver’s A2Z DSA Course](https://takeuforward.org/dsa/strivers-a2z-dsa-course-sheet-2/)
+=======
