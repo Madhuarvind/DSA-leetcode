@@ -92,3 +92,48 @@ int main() {
 ```
 
 ---
+
+## 3. ✅ Boolean Data Type (`bool`)
+
+Stores logical values: `true (1)` or `false (0)`. Size: **1 byte**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    bool isTrue = true;
+    cout << isTrue;
+    return 0;
+}
+```
+
+🖥️ Output:
+```
+1
+```
+
+---
+
+## 4. 🔣 Floating Point Data Type (`float`)
+
+Stores decimal numbers. Size: **4 bytes**  
+Range: **1.2e-38 to 3.4e+38**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    float f = 36.5;
+    cout << f;
+    return 0;
+}
+```
+
+🖥️ Output:
+```
+36.5
+```
+
+---
