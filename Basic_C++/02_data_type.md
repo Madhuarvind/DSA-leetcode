@@ -137,3 +137,35 @@ int main() {
 ```
 
 ---
+
+## 5. 🔬 Double Data Type (`double`)
+
+Double-precision float. Size: **8 bytes**  
+Range: **1.7e-308 to 1.7e+308**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    double pi = 3.1415926535;
+    cout << pi;
+    return 0;
+}
+```
+
+🖥️ Output:
+```
+3.14159
+```
+
+---
+
+## 6. ❌ Void Data Type (`void`)
+
+Represents absence of value. Cannot be used to declare variables.
+
+- Used in functions that **don’t return anything**
+- Used for **void pointers**
+
+---
