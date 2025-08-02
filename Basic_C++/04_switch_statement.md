@@ -63,3 +63,117 @@ int main() {
 🟢 **Output:** `Thursday`
 
 ---
+
+## 🔑 Key Concepts
+
+### ✅ 1. Constant Expression in `switch`
+
+```cpp
+const int x = 10, y = 5;
+switch (x + y) {
+    case 15:
+        cout << "Result is 15.";
+        break;
+    case 20:
+        cout << "Result is 20.";
+        break;
+}
+```
+
+✔ Output: `Result is 15.`
+
+---
+
+### ✅ 2. Works with Integer and Character Types
+
+```cpp
+char grade = 'B';
+
+switch (grade) {
+    case 'A':
+        cout << "Excellent!";
+        break;
+    case 'B':
+        cout << "Good!";
+        break;
+    default:
+        cout << "Not specified.";
+}
+```
+
+✔ Output: `Good!`
+
+---
+
+### ✅ 3. Role of `break`
+
+- Prevents "fall-through"
+- Without it, all following cases will execute until a `break` is found or switch ends
+
+---
+
+### ✅ 4. Optional `default` Case
+
+Acts as a fallback when no `case` matches.
+
+---
+
+### 🚫 5. No Duplicate Case Values
+
+```cpp
+switch (day) {
+    case 2:
+        cout << "Tuesday.";
+        break;
+    case 2: // ❌ Not allowed
+        cout << "Duplicate case.";
+        break;
+}
+```
+
+---
+
+### ⚠️ 6. Nested Switch Statements (Avoid)
+
+```cpp
+int x = 2, y = 3;
+
+switch (x) {
+    case 1:
+        cout << "x is 1.";
+        switch (y) {
+            case 1:
+                cout << "y is 1.";
+                break;
+            default:
+                cout << "y is not 1.";
+        }
+        break;
+    default:
+        cout << "x is not 1.";
+}
+```
+
+✔ Output: `x is not 1.`
+
+> 🔁 Nesting is legal, but should be avoided for clarity and maintainability.
+
+---
+
+## 📝 Summary
+
+| Feature                 | Supported in `switch`? |
+|------------------------|-------------------------|
+| Integer types           | ✅ Yes                 |
+| Character types         | ✅ Yes                 |
+| String or float types   | ❌ No                  |
+| Constants in case label | ✅ Yes                 |
+| Duplicate cases         | ❌ No                  |
+| Default case            | ✅ Optional            |
+| Nested switch           | ⚠️ Yes, but not recommended |
+
+---
+
+🙌 Special thanks to **Gauri Tomar** for contributing to this article on [TakeUForward](https://takeuforward.org/).
+
+---
