@@ -70,3 +70,89 @@ O(N^2 + N + 5) → O(N^2)
 ```
 
 ---
+
+## 🧮 Notations:
+
+| Notation | Meaning                      |
+|----------|------------------------------|
+| O(f(n))  | Worst case                   |
+| Ω(f(n))  | Best case                    |
+| θ(f(n))  | Average case (tight bound)   |
+
+---
+
+## 📘 Practice Question 1:
+
+```cpp
+for (int i = 0; i < N; i++) {
+    for (int j = 0; j < N; j++) {
+        cout << "*";
+    }
+}
+```
+
+**Analysis:**
+- Outer loop: N
+- Inner loop: N
+- Total steps: N × N = **O(N²)**
+
+---
+
+## 📘 Practice Question 2:
+
+```cpp
+for (int i = 0; i < N; i++) {
+    for (int j = 0; j <= i; j++) {
+        cout << "*";
+    }
+}
+```
+
+**Analysis:**
+- Inner loop runs: 1 + 2 + 3 + ... + N = **(N(N+1))/2 ≈ O(N²)**
+
+---
+
+## 💾 What is Space Complexity?
+
+**Space Complexity** is the total memory used by the program:
+- **Input space**: memory used to store inputs
+- **Auxiliary space**: extra memory for computation
+
+---
+
+## 🧪 Example:
+
+```cpp
+int a = 2, b = 3;
+int c = a + b;
+```
+
+- `a` and `b`: input space
+- `c`: auxiliary space  
+➡ Total: **O(3)** → simplified to **O(1)**
+
+---
+
+## 📌 Good Coding Practice
+
+Even if we can reduce space by modifying input, **don’t modify inputs unless instructed** in an interview.
+
+---
+
+## 🚀 Competitive Programming Tip:
+
+- Most platforms allow ~10⁸ operations per second.
+- So for 1-second constraints, aim for **O(N) ≈ 10⁶–10⁷**
+- For 2s → O(2×10⁸), and so on.
+
+---
+
+## 👏 Special Thanks
+
+> ✨ Special thanks to **Kritidipta Ghosh** for contributing to this article on [TakeUForward](https://takeuforward.org/).
+
+---
+
+📚 Want to master DSA the right way?  
+Explore ➡️ [Striver’s A2Z DSA Course Sheet](https://takeuforward.org/dsa/strivers-a2z-dsa-course-sheet-2/)
