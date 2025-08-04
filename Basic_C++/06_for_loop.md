@@ -1,5 +1,4 @@
-# 🔁 07. Understanding For Loop – Striver’s A2Z DSA Course
-
+# 🔁 07. Understanding For Loop 
 ---
 
 ## 🚀 What is a For Loop?
@@ -84,3 +83,65 @@ i = 2, j = 2
 ```
 
 ---
+
+## ⚡ Conditional Statements in For Loops
+
+You can include `if`, `else if`, or `else` inside a loop to handle custom logic.
+
+```cpp
+for (int i = 1; i <= 10; i++) {
+    if (i % 2 == 0) {
+        // Even number logic
+    } else {
+        // Odd number logic
+    }
+}
+```
+
+---
+
+## 🛠 Customizing For Loop
+
+You can change step sizes, start points, and end conditions.
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    for (int i = 1; i <= 25; i += 5) {
+        cout << "i = " << i << endl;
+    }
+    return 0;
+}
+```
+
+### ✅ Output:
+
+```
+i = 1
+i = 6
+i = 11
+i = 16
+i = 21
+```
+
+- Starts at 1
+- Increments by 5
+- Ends when `i > 25`
+
+---
+
+## 🧠 Summary
+
+| Feature               | Description                                    |
+|----------------------|------------------------------------------------|
+| `Initialization`      | Sets up loop control variable                 |
+| `Condition`           | Loop continues while true                     |
+| `Increment/Decrement` | Updates variable each iteration               |
+| `Nested Loops`        | Loop inside loop for 2D structures            |
+| `Conditionals Inside` | Add decision-making with `if-else` logic      |
+| `Custom Steps`        | Use `i += X`, `i -= X`, or different ranges   |
+
+---
+
