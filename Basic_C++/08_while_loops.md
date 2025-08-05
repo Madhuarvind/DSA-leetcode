@@ -58,3 +58,94 @@ Factorial of 5 is: 120
 ```
 
 ---
+
+## 🔐 Termination Conditions
+
+Clearly defining when the loop ends is **critical** to avoid **infinite loops**.
+
+**Bad termination** can:
+- Cause program crashes
+- Consume excessive memory or CPU
+
+✅ Always make sure the condition will eventually become **false**.
+
+---
+
+## ⚙️ Optimizing While Loops
+
+Improve efficiency by reducing unnecessary iterations.
+
+### 🔹 `break`
+
+Used to **exit** the loop early, even if the condition is still true.
+
+### 🔹 `continue`
+
+Skips the **current iteration** and jumps to the next one.
+
+---
+
+## 💻 Example: `break` and `continue` in Action
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int numbers[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    int target = 6;
+
+    // break example
+    for (int num : numbers) {
+        if (num == target) {
+            cout << "Target found: " << target << endl;
+            break;
+        }
+        cout << "Checking: " << num << endl;
+    }
+
+    // continue example
+    for (int num : numbers) {
+        if (num % 2 == 0) {
+            continue;
+        }
+        cout << "Odd number: " << num << endl;
+    }
+
+    return 0;
+}
+```
+
+### ✅ Output:
+
+```
+Checking: 1
+Checking: 2
+Checking: 3
+Checking: 4
+Checking: 5
+Target found: 6
+Odd number: 1
+Odd number: 3
+Odd number: 5
+Odd number: 7
+Odd number: 9
+```
+
+---
+
+## 🧠 Summary
+
+| Concept               | Description                                      |
+|----------------------|--------------------------------------------------|
+| While Loop            | Executes while condition is true                 |
+| Infinite Loop Risk    | Caused by poorly defined exit conditions         |
+| `break`               | Exit the loop immediately                        |
+| `continue`            | Skip current iteration and continue with next    |
+| Best Use Case         | When iteration count isn't known beforehand      |
+
+---
+
+🙌 Special thanks to **Gauri Tomar** for contributing to this article on [TakeUForward](https://takeuforward.org/)
+
+---
