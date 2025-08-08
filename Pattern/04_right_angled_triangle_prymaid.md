@@ -86,35 +86,3 @@ int main() {
 1 2 3 4  
 1 2 3 4 5  
 ```
-
----
-
-## 🖼️ Pattern Illustration
-
-> Add an image named `pattern3.png` inside the `images/` folder of your repository.
-
-```markdown
-![Pattern 3 – Right-Angled Number Pyramid](images/pattern3.png)
-```
-
----
-
-## 📌 Notes
-
-- Similar to **Pattern-2**, but prints **incrementing numbers** instead of stars.
-- Helps in understanding **nested loops**.
-
----
-
-## 🙌 Credits
-
-Special thanks to **Priyanshi Goel** for contributing this article to **TakeUForward**.
-
----
-
-## 🔗 Related Links
-
-- [Striver’s A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-a2z-dsa-course-sheet-2/)  
-- [Pattern Problems Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
-
----
