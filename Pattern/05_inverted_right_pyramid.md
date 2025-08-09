@@ -86,3 +86,33 @@ int main() {
 ```
 
 ---
+
+## 🖼️ Pattern Illustration
+
+> Save an image named `pattern5.png` inside the `images/` folder in your repository.
+
+```markdown
+![Pattern 5 – Inverted Right Pyramid](images/pattern5.png)
+```
+
+---
+
+## 📌 Notes
+
+- Similar to **Pattern-2**, but stars **decrease** each row instead of increasing.
+- Good practice for **nested loops** and reverse iteration.
+
+---
+
+## 🙌 Credits
+
+Special thanks to **Priyanshi Goel** for contributing this article to **TakeUForward**.
+
+---
+
+## 🔗 Related Links
+
+- [Striver’s A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-a2z-dsa-course-sheet-2/)  
+- [Pattern Problems Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
+
+---
