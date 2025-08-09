@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1086-divisor-game) |
 ## Dynamic Programming
@@ -18,6 +19,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1086-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
