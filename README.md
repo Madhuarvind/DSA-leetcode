@@ -17,6 +17,7 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1086-divisor-game) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Recursion
 |  |
 | ------- |
