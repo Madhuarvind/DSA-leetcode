@@ -1,4 +1,4 @@
-# ⭐ Pattern-8: Inverted Star Pyramid – Striver’s A2Z DSA Sheet
+# ⭐ Pattern-8: Inverted Star Pyramid
 
 ---
 
