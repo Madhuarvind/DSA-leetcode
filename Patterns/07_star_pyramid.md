@@ -1,4 +1,4 @@
-# ⭐ Pattern-7: Star Pyramid – Striver’s A2Z DSA Sheet
+# ⭐ Pattern-7: Star Pyramid 
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔽 Pattern-6: Inverted Numbered Right Pyramid – Striver’s A2Z DSA Sheet
+# 🔽 Pattern-6: Inverted Numbered Right Pyramid 
 
 ---
 

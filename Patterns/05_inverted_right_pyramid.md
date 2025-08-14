@@ -1,4 +1,4 @@
-# 🔻 Pattern-5: Inverted Right Pyramid – Striver’s A2Z DSA Sheet
+# 🔻 Pattern-5: Inverted Right Pyramid 
 
 ---
 
