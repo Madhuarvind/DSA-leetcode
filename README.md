@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1086-divisor-game) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
