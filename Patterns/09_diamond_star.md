@@ -60,6 +60,68 @@ Follow the **4 golden rules** for pattern printing:
 - **Inverted pyramid** → Row `i` has `i` spaces and `(2*N - (2*i + 1))` stars.
 
 ---
+# ⭐ Pattern-9: Diamond Star Pattern
+
+---
+
+## 📝 Problem Statement
+
+Given an integer `N`, print a **diamond-shaped star pattern** (center-aligned).  
+It is formed by combining an **erect star pyramid** and an **inverted star pyramid**.
+
+---
+
+## ✅ Examples
+
+### Example 1:
+**Input:** `N = 3`  
+**Output:**
+```
+  *  
+ ***  
+*****  
+*****  
+ ***  
+  *  
+```
+
+### Example 2:
+**Input:** `N = 6`  
+**Output:**
+```
+     *     
+    ***    
+   *****   
+  *******  
+ ********* 
+***********  
+***********  
+ *********  
+  *******  
+   *****   
+    ***    
+     *     
+```
+
+---
+
+## 🔍 Approach
+
+Follow the **4 golden rules** for pattern printing:
+
+1. **Outer loop** → Runs `N` times for each half (first for erect pyramid, then for inverted pyramid).  
+2. **Inner loops** →  
+   - First loop → Prints **spaces before stars**.  
+   - Second loop → Prints **stars** in an odd-number sequence.  
+   - Third loop → Prints **spaces after stars** (optional for symmetry).  
+3. **Line break** after each row.  
+4. The diamond is essentially **Pattern-7** (pyramid) + **Pattern-8** (inverted pyramid) combined.
+
+### 🧠 Key Idea:
+- **Erect pyramid** → Row `i` has `(N - i - 1)` spaces and `(2*i + 1)` stars.  
+- **Inverted pyramid** → Row `i` has `i` spaces and `(2*N - (2*i + 1))` stars.
+
+---
 
 ## ✅ Code (C++)
 
