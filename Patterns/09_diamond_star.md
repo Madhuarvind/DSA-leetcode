@@ -1,7 +1,6 @@
 
 # ⭐ Pattern-9: Diamond Star Pattern
 
----
 
 ## 📝 Problem Statement
 
