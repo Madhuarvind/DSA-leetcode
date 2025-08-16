@@ -18,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1086-divisor-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2529-range-product-queries-of-powers](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2529-range-product-queries-of-powers) |
