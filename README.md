@@ -14,6 +14,7 @@
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1086-divisor-game) |
+| [1448-maximum-69-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
