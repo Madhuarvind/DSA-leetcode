@@ -11,6 +11,7 @@
 | [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1086-divisor-game) |
@@ -39,6 +40,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2529-range-product-queries-of-powers](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1448-maximum-69-number) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
