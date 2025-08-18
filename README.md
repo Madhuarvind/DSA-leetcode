@@ -63,10 +63,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
@@ -83,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
