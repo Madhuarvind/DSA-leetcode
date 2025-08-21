@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0326-power-of-three) |
