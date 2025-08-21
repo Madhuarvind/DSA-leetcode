@@ -19,6 +19,7 @@
 | [1448-maximum-69-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3371-harshad-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/3371-harshad-number) |
 ## Dynamic Programming
 |  |
 | ------- |
