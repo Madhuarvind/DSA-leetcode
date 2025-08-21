@@ -17,6 +17,7 @@
 | [1086-divisor-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1086-divisor-game) |
 | [1448-maximum-69-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
