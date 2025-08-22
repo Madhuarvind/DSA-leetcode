@@ -10,6 +10,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0441-arranging-coins) |
@@ -47,6 +48,7 @@
 | [0118-pascals-triangle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -69,17 +71,20 @@
 | ------- |
 | [0136-single-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
@@ -113,5 +118,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
