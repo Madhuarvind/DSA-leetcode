@@ -52,6 +52,7 @@
 | [0136-single-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
