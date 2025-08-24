@@ -15,87 +15,278 @@ Given an array of size `N`, rotate the array to the left by one position.
 ```
 Input:  [1, 2, 3, 4, 5]
 Output: [2, 3, 4, 5, 1]
+
+Input:  [9, 8, 7, 6, 4, 2, 1, 3]
+Output: [8, 7, 6, 4, 2, 1, 3, 9]
+
+Input:  [42]
+Output: [42]
 ```
 
 ---
 
 ## 💡 Approaches
 
-### 1) Brute Force Approach
+### Approach 1: Brute Force (Using Temporary Array)
 
-**Intuition:** The rotated array has just a difference that its first element is present at the last index of the array. So if we can just store the element at the first index and then shift all the elements towards the left and at last put the stored element at the last index, we will get the rotated array.
-
-**Approach:** We can take another dummy array of the same length and then shift all elements in the array toward the left and then at the last element store the index of the 0th index of the array and print it.
+**Algorithm:** Create a temporary array, shift all elements to the left, and place the first element at the end.
 
 #### Pseudocode
+```
+temp[n]
+for i from 1 to n-1:
+    temp[i-1] = arr[i]
+temp[n-1] = arr[0]
+copy temp to arr
+```
 
+#### Code (C++)
 ```cpp
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 void solve(int arr[], int n) {
-  int temp[n];
-  for (int i = 1; i < n; i++) {
-    temp[i - 1] = arr[i];
-  }
-  temp[n - 1] = arr[0];
-  for (int i = 0; i < n; i++) {
-    cout << temp[i] << " ";
-  }
-  cout << endl;
+    int temp[n];
+    for (int i = 1; i < n; i++) {
+        temp[i - 1] = arr[i];
+    }
+    temp[n - 1] = arr[0];
+    for (int i = 0; i < n; i++) {
+        cout << temp[i] << " ";
+    }
+    cout << endl;
 }
 
 int main() {
-  int n=5;
-  int arr[]= {1,2,3,4,5};
-  solve(arr, n);
+    int arr[] = {1, 2, 3, 4, 5};
+    int n = 5;
+    solve(arr, n);
+    return 0;
 }
 ```
 
-**Output:** 2 3 4 5 1
+**Output:**
+```
+2 3 4 5 1
+```
 
-**Complexity Analysis:**
-- Time Complexity: O(n), as we iterate through the array only once.
-- Space Complexity: O(n) as we are using another array of the same size as the given array.
+### Approach 2: Optimal (In-place Rotation)
 
-### 2) Optimal Approach
-
-**Intuition:** Store the value of the first index in a variable (let it be x). Then iterate the array from the 0th index to the n-1th index and store the value present in the next index to the current index.
+**Algorithm:** Store the first element, shift all elements to the left, and place the stored element at the end.
 
 #### Pseudocode
+```
+temp = arr[0]
+for i from 0 to n-2:
+    arr[i] = arr[i+1]
+arr[n-1] = temp
+```
 
+#### Code (C++)
 ```cpp
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 void solve(int arr[], int n) {
-  int temp = arr[0]; // storing the first element of the array in a variable
-  for (int i = 0; i < n - 1; i++) {
-    arr[i] = arr[i + 1];
-  }
-  arr[n - 1] = temp; // assigned the value of the variable at the last index
-  for (int i = 0; i < n; i++) {
-    cout << arr[i] << " ";
-  }
+    int temp = arr[0];
+    for (int i = 0; i < n - 1; i++) {
+        arr[i] = arr[i + 1];
+    }
+    arr[n - 1] = temp;
+    for (int i = 0; i < n; i++) {
+        cout << arr[i] << " ";
+    }
+    cout << endl;
 }
 
 int main() {
-  int n=5;
-  int arr[]= {1,2,3,4,5};
-  solve(arr, n);
+    int arr[] = {1, 2, 3, 4, 5};
+    int n = 5;
+    solve(arr, n);
+    return 0;
 }
 ```
 
-**Output:** 2 3 4 5 1
+**Output:**
+```
+2 3 4 5 1
+```
 
-**Complexity Analysis:**
-- Time Complexity: O(n), as we iterate through the array only once.
-- Space Complexity: O(1) as no extra space is used.
+---
+
+## 🧷 Implementations
+
+### Java
+
+<details>
+<summary>Brute Force Approach</summary>
+
+```java
+import java.util.*;
+
+public class Main {
+    static void solve(int[] arr) {
+        int n = arr.length;
+        int[] temp = new int[n];
+        for (int i = 1; i < n; i++) {
+            temp[i - 1] = arr[i];
+        }
+        temp[n - 1] = arr[0];
+        System.out.println(Arrays.toString(temp));
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4, 5};
+        solve(arr);
+    }
+}
+```
+
+</details>
+
+<details>
+<summary>Optimal Approach</summary>
+
+```java
+public class Main {
+    static void solve(int[] arr) {
+        int n = arr.length;
+        int temp = arr[0];
+        for (int i = 0; i < n - 1; i++) {
+            arr[i] = arr[i + 1];
+        }
+        arr[n - 1] = temp;
+        System.out.println(Arrays.toString(arr));
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4, 5};
+        solve(arr);
+    }
+}
+```
+
+</details>
+
+### Python
+
+<details>
+<summary>Brute Force Approach</summary>
+
+```python
+def solve(arr):
+    n = len(arr)
+    temp = [0] * n
+    for i in range(1, n):
+        temp[i - 1] = arr[i]
+    temp[n - 1] = arr[0]
+    print(temp)
+
+arr = [1, 2, 3, 4, 5]
+solve(arr)
+```
+
+</details>
+
+<details>
+<summary>Optimal Approach</summary>
+
+```python
+def solve(arr):
+    if len(arr) <= 1:
+        return arr
+    temp = arr[0]
+    for i in range(len(arr) - 1):
+        arr[i] = arr[i + 1]
+    arr[-1] = temp
+    print(arr)
+
+arr = [1, 2, 3, 4, 5]
+solve(arr)
+```
+
+</details>
+
+### JavaScript
+
+<details>
+<summary>Brute Force Approach</summary>
+
+```javascript
+function solve(arr) {
+    const n = arr.length;
+    const temp = new Array(n);
+    for (let i = 1; i < n; i++) {
+        temp[i - 1] = arr[i];
+    }
+    temp[n - 1] = arr[0];
+    console.log(temp);
+}
+
+const arr = [1, 2, 3, 4, 5];
+solve(arr);
+```
+
+</details>
+
+<details>
+<summary>Optimal Approach</summary>
+
+```javascript
+function solve(arr) {
+    const n = arr.length;
+    const temp = arr[0];
+    for (let i = 0; i < n - 1; i++) {
+        arr[i] = arr[i + 1];
+    }
+    arr[n - 1] = temp;
+    console.log(arr);
+}
+
+const arr = [1, 2, 3, 4, 5];
+solve(arr);
+```
+
+</details>
+
+---
+
+## 🧭 Edge Cases to Consider
+
+* Empty array `[]` (should handle gracefully)
+* Single element array `[x]` (should remain unchanged)
+* Arrays with negative numbers
+* Arrays with duplicate elements
+
+---
+
+## 🧾 Complexity Summary
+
+| Approach    | Time Complexity | Space Complexity |
+| ----------- | --------------- | ---------------- |
+| Brute Force | `O(N)`          | `O(N)`           |
+| Optimal     | `O(N)`          | `O(1)`           |
+
+---
+
+## ▶️ How to Run (Quick Tips)
+
+* **C++:** `g++ main.cpp -o app && ./app`
+* **Java:** `javac Main.java && java Main`
+* **Python:** `python main.py`
+* **JavaScript (Node):** `node main.js`
 
 ---
 
 ## 🙌 Credits
 
-Special thanks to Ayush Pandey for contributing to this article on TakeUForward.
+Special thanks to Ayush Pandey for contributing to this problem write-up on TakeUforward.
 
 ---
+
+## 📣 Notes
+
+* The brute force approach uses extra space but is straightforward
+* The optimal approach is more memory efficient with constant space
+* Both approaches have linear time complexity
+* Choose the approach based on memory constraints
