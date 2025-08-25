@@ -47,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0136-single-number) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
