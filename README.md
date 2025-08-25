@@ -52,6 +52,7 @@
 | [0075-sort-colors](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
@@ -93,12 +95,14 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -132,4 +136,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0441-arranging-coins) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
