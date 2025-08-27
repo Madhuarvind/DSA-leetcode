@@ -153,4 +153,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
