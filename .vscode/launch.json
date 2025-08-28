@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/Downloads/DSA-leetcode/Basic_C++",
-      "program": "c:/Users/Admin/Downloads/DSA-leetcode/Basic_C++/build/Debug/outDebug",
+      "cwd": "c:/Users/Admin/Downloads/DSA-leetcode/Dsa_leetcode_problems/0031-next-permutation",
+      "program": "c:/Users/Admin/Downloads/DSA-leetcode/Dsa_leetcode_problems/0031-next-permutation/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
