@@ -157,4 +157,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0175-combine-two-tables) |
+| [1179-game-play-analysis-i](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
