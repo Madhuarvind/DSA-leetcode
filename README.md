@@ -63,6 +63,7 @@
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -149,6 +150,7 @@
 | [0035-search-insert-position](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
