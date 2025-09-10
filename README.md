@@ -57,6 +57,7 @@
 | [0035-search-insert-position](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0136-single-number) |
@@ -152,6 +153,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
