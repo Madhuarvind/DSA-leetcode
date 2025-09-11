@@ -70,6 +70,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -160,6 +161,7 @@
 | [0441-arranging-coins](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
