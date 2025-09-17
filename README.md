@@ -32,6 +32,7 @@
 | [0053-maximum-subarray](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1086-divisor-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -66,6 +67,7 @@
 | [0169-majority-element](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
@@ -132,6 +134,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## String
 |  |
@@ -143,6 +146,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [1448-maximum-69-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1448-maximum-69-number) |
 ## Backtracking
 |  |
@@ -162,6 +166,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0792-binary-search) |
