@@ -90,6 +90,7 @@
 | [0031-next-permutation](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0908-middle-of-the-linked-list](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Brainteaser
 |  |
@@ -196,4 +197,8 @@
 | [0595-big-countries](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1179-game-play-analysis-i) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
