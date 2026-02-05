@@ -83,6 +83,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -96,6 +97,7 @@
 | [0189-rotate-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Brainteaser
 |  |
@@ -193,6 +195,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Database
 |  |
