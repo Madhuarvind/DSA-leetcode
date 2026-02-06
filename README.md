@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -58,6 +59,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -212,4 +214,8 @@
 | [0141-linked-list-cycle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
