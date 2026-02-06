@@ -61,6 +61,7 @@
 | [0035-search-insert-position](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0118-pascals-triangle) |
@@ -197,6 +198,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Madhuarvind/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Database
@@ -218,4 +220,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
