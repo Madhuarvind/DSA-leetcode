@@ -78,6 +78,7 @@
 | [0485-max-consecutive-ones](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0679-24-game) |
+| [0704-binary-search](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -185,6 +186,7 @@
 | [0410-split-array-largest-sum](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Madhuarvind/DSA-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
