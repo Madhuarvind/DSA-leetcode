@@ -226,4 +226,20 @@
 | [0048-rotate-image](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Madhuarvind/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
